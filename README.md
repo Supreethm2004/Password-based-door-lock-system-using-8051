@@ -35,7 +35,7 @@ The main objective of designing this password based door lock system is to provi
 The main component in the circuit is 8051 controller. In this project 4×3 keypad is used to enter the password. The password which is entered is compared with the predefined password.
 If the entered password is correct then the system opens the door by rotating door motor and displays the status of door on LCD. If the password is wrong then door is remain closed and a sound alarm is triggered and displays “Password is wrong” on LCD.
 ### Block Diagram: 
- <img src="BlockDiagram.png">
+ <img src="images/BlockDiagram.png">
 
 ### Hardware Requirements:
 1.	80C51 Microcontroller
